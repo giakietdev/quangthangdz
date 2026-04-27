@@ -25,6 +25,6 @@
 
 <div align="center">
 
-### ✨ Joiner = ✅ True ✨
+### ✨ Joiner = ✅ False ✨
 
 </div>
